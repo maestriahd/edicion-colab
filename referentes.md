@@ -1,4 +1,4 @@
-# Referentes
+# Referentes para revisión
 
 **Escritura pública del libro The Historian Macroscope** 
 
