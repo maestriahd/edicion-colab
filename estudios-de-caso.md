@@ -10,7 +10,7 @@ El proceso editorial de PH se lleva a cabo en la plataforma de GitHub. Los texto
 
 ### Serie: Theory on Demand 
 
-
+Publicación seriada realizada con la metodología de Publicación Híbrida por el Institute of Networked Cultures
 
 {% embed url="https://networkcultures.org/publications/\#tod" caption="Serie de publicaciones \"Theory on demand\" del Institute of Networked Cultures" %}
 
