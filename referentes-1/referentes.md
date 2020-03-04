@@ -1,3 +1,10 @@
+---
+description: >-
+  Cada pareja analizará un referente de publicación digital. En el análisis
+  deben tener en cuenta el formatos y estrat de publicación digital propone el
+  proyecto, la experiencia de lectura que ofrece y
+---
+
 # Referentes para revisión
 
 {% embed url="https://networkcultures.org/publications/\#tod" caption="Serie de publicaciones \"Theory on demand\" del Institute of Networked Cultures" %}
