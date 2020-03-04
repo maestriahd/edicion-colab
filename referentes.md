@@ -24,7 +24,9 @@ El proceso editorial de PH se lleva a cabo en la plataforma de GitHub. Los texto
 
 {% embed url="https://editflow.org/" %}
 
-\*\*\*\*
+{% embed url="http://p-dpa.net/" caption="The aim of P—DPA is to systematically collect, organize and keep trace of experiences in the fields of art and design that explore the relationships between publishing and digital technology." %}
 
- ****
+
+
+\*\*\*\*
 
