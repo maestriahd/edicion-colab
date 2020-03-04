@@ -21,7 +21,10 @@
 
 ## Herramientas
 
-* [Herramientas digitales para escritura y edición](herramientas/herramientas-digitales-para-escritura-y-edicion.md)
+* [Escritura](herramientas/escritura.md)
+* [Plataformas de edición colaborativa](herramientas/herramientas-digitales-para-escritura-y-edicion.md)
+* [Exportación y conversión](herramientas/exportacion-y-conversion.md)
+* [Participación](herramientas/participacion.md)
 
 ## Proyecto Editorial
 
