@@ -2,9 +2,10 @@
 
 ### Publicación
 
-* CanalesPensar en los diferentes canales de publicación
-* Plataformas comerciales \(google, amazon, apple \)
-* Editoriales independientes
-* **Open Access.** Acceso inmediato sin necesidad de registro, suscripción o pago 
-* **Repositorios públicos.** Bibliotecas, archivos, centros de documentación.
+* **Canales.** Canales de publicación comerciales y no comerciales
+* **Plataformas comerciales.** Google, amazon, apple 
+* **Repositorios públicos.** Bibliotecas públicas y universitarias.
+* **Formatos.** PDF, XML, Kindle, EPub.
+* **Open Access.** Acceso inmediato sin necesidad de registro, suscripción o pago.
+*  **Interactividad.** mp3, Html, video, galerías, animación, etc. 
 
