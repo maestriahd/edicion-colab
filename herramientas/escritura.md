@@ -22,3 +22,9 @@ Markdown es un lenguaje de marcado liviano, que es de entender para humanos y m√
 
 {% embed url="https://markdownjournal.com/" %}
 
+### Editores MarkDown standalone
+
+{% embed url="https://macdown.uranusjr.com/" %}
+
+
+

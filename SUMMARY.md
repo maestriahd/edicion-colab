@@ -22,17 +22,14 @@
 ## Herramientas
 
 * [Escritura](herramientas/escritura.md)
-* [Plataformas de edición colaborativa](herramientas/herramientas-digitales-para-escritura-y-edicion.md)
+* [Edición colaborativa](herramientas/herramientas-digitales-para-escritura-y-edicion.md)
 * [Exportación y conversión](herramientas/exportacion-y-conversion.md)
 * [Participación](herramientas/participacion.md)
 
 ## Proyecto Editorial
 
-* [Proyecto editorial](proyecto-editorial/proyecto-editorial.md)
-
-## Tareas
-
-* [Revisión GitBook](tareas/revision-githbook.md)
-* [Escritura](tareas/escritura.md)
+* [Proyecto editorial](proyecto-editorial/proyecto-editorial/README.md)
+  * [Revisión GitBook](proyecto-editorial/proyecto-editorial/revision-githbook.md)
+  * [Escritura](proyecto-editorial/proyecto-editorial/escritura.md)
 * [Bibliografía](bibliografia.md)
 
