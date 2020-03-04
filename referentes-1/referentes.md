@@ -7,8 +7,6 @@ description: >-
 
 # Referentes para revisión
 
-{% embed url="https://networkcultures.org/publications/\#tod" caption="Serie de publicaciones \"Theory on demand\" del Institute of Networked Cultures" %}
-
 {% embed url="http://www.generative-gestaltung.de/2/" caption="Curso y libro sobre código creativo y composición visual" %}
 
 {% embed url="https://10print.org/" caption="Libro sobre código y computación creativa, realizado con metodologías colaborativas." %}
@@ -18,6 +16,20 @@ description: >-
 {% embed url="http://dnaanthology.com/anvc/dna/index" caption="Seven interactive essays on digital nonlinear storytelling" %}
 
 {% embed url="https://bibliotecanacional.gov.co/es-co/colecciones/bibliografica/libro-digital" caption="Colección de libros digitales de la Biblioteca Nacional" %}
+
+{% embed url="http://www.artistsebooks.org/" %}
+
+### Journal of Artistic Research
+
+{% embed url="https://www.jar-online.net/" caption="Revista de Investigación Artística" %}
+
+{% embed url="https://www.researchcatalogue.net/" caption="Catálogo de investigaciones en arte." %}
+
+### Kenneth Goldsmith: The Hilary Clinton emails
+
+{% embed url="https://www.ffur.eu/2019/07/10/kenneth-goldsmith/" %}
+
+{% embed url="https://www.neroeditions.com/product/hillary/" %}
 
 
 
