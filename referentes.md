@@ -20,5 +20,11 @@ El proceso editorial de PH se lleva a cabo en la plataforma de GitHub. Los texto
 
 {% embed url="https://10print.org/" %}
 
+**Edit Flow para procesos editoriales colaborativos**
 
+{% embed url="https://editflow.org/" %}
+
+\*\*\*\*
+
+ ****
 
