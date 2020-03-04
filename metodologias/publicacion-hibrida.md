@@ -14,7 +14,9 @@ El flujo de trabajo consiste en usar formas de trabajo y tecnologías estructura
 
 Es un manual de producción editorial enfocado en la creación de libros, catálogos y publicaciones para diferentes dispositivos y contextos de lectura \(impresa, web y electrónica\).
 
-> [https://www.publishinglab.nl/blog/publication/from-print-to-ebooks-a-hybrid-publishing-toolkit-for-the-arts/](https://www.publishinglab.nl/blog/publication/from-print-to-ebooks-a-hybrid-publishing-toolkit-for-the-arts/)
+{% embed url="https://www.publishinglab.nl/blog/publication/from-print-to-ebooks-a-hybrid-publishing-toolkit-for-the-arts" %}
+
+
 
 
 
