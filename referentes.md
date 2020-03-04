@@ -18,5 +18,7 @@ El proceso editorial de PH se lleva a cabo en la plataforma de GitHub. Los texto
 
 {% embed url="https://networkcultures.org/publications/\#tod" caption="Serie de publicaciones \"Theory on demand\" del Institute of Networked Cultures" %}
 
+{% embed url="https://10print.org/" %}
+
 
 

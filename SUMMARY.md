@@ -9,10 +9,7 @@
 * [Edición](introduccion-1/edicion.md)
 * [Publicación](introduccion-1/publicacion.md)
 * [Lectura](introduccion-1/lectura.md)
-
-## Referentes <a id="referentes-1"></a>
-
-* [Referentes](referentes-1/referentes.md)
+* [Referentes](referentes.md)
 
 ## Metodologías y flujos de trabajo <a id="metodologias"></a>
 
