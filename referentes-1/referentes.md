@@ -2,8 +2,6 @@
 
 **Escritura pública del libro The Historian Macroscope** 
 
-{% embed url="http://www.themacroscope.org/2.0/" %}
-
 {% embed url="https://networkcultures.org/publications/\#tod" caption="Serie de publicaciones \"Theory on demand\" del Institute of Networked Cultures" %}
 
 {% embed url="http://www.generative-gestaltung.de/2/" caption="Curso y libro sobre código creativo y composición visual" %}
