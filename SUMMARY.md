@@ -35,5 +35,4 @@
 * [Revisión GitBook](tareas/revision-githbook.md)
 * [Escritura](tareas/escritura.md)
 * [Bibliografía](bibliografia.md)
-* [Prueba](untitled.md)
 
