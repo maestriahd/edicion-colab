@@ -10,6 +10,8 @@
 
 {% embed url="http://dnaanthology.com/anvc/dna/index" caption="Seven interactive essays on digital nonlinear storytelling" %}
 
+{% embed url="https://bibliotecanacional.gov.co/es-co/colecciones/bibliografica/libro-digital" caption="Colección de libros digitales de la Biblioteca Nacional" %}
+
 
 
 \*\*\*\*
