@@ -1,11 +1,6 @@
----
-description: >-
-  Cada pareja analizará un referente de publicación digital. En el análisis
-  deben tener en cuenta el formatos y estrate de publicación digital propone el
-  proyecto, la experiencia de lectura que ofrece y
----
-
 # Referentes para revisión
+
+Cada pareja analizará un referente de publicación digital. En el análisis deben tener en cuenta los formatos y estrategias de publicación digital propone el proyecto, la experiencia de lectura que ofrece, que medios digitales y análogos se usan para publicar.
 
 {% embed url="http://www.generative-gestaltung.de/2/" caption="Curso y libro sobre código creativo y composición visual" %}
 
