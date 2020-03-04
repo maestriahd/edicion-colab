@@ -23,6 +23,10 @@
 * Proceso editorial para mini libro
 * Socialización de propuestas
 
+{% page-ref page="referentes.md" %}
+
+{% page-ref page="bibliografia.md" %}
+
 
 
 
