@@ -10,4 +10,5 @@
 * Driscoll, Matthew James, Elena Pierazzo, and Open Book Publishers. Digital Scholarly Editing : Theories and Practices. \[Digital Humanities Series, V. 4\]. INSERT-MISSING-SERVICE-NAME. Cambridge: Open Book, 2016. 
 * Apollon, Daniel, Claire Belisle, and Régnier Philippe, eds. Digital Critical Editions. Topics in the Digital Humanities. INSERT-MISSING-SERVICE-NAME. Urbana: University of Illinois Press, 2014. 
 * Evans, Michael Robert. The Layers of Magazine Editing. INSERT-MISSING-SERVICE-NAME. New York: Columbia University Press, 2004.
+* Joe Monk, Miriam Rasch, Florian Cramer and Amy Wu \(Editores\). 
 
