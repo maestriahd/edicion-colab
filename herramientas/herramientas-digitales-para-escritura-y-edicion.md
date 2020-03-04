@@ -18,5 +18,7 @@
 
 {% embed url="https://leanpub.com/" %}
 
-{% embed url="https://web.hypothes.is/" %}
+{% embed url="https://scalar.me/anvc/scalar/features/" %}
+
+
 
