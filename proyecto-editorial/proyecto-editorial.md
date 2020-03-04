@@ -1,7 +1,7 @@
 ---
 description: >-
   El objetivo de esta actividad es practicar un proceso de edición colaborativa
-  escribiendo en Markdown y utilizando GitBook para flujo editorial
+  escribiendo en Markdown y utilizando GitBook para el flujo editorial
 ---
 
 # Proyecto editorial
@@ -15,11 +15,11 @@ Algunas provocaciones:
 * ¿Cómo pueden coexistir las librerías con las plataformas de libros digitales?
 * ¿Libros impresos, digital o audiobooks?
 
-El libro tendrá un total de 10 ensayos escritos colaborativamente en parejas. Los textos deben tener entre 1000 y 1200 palabras y mínimo una imagen. Para la sesión del 11 de marzo todos los textos deben estar listos para revisión.  
+El libro tendrá un total de 10 ensayos. 
 
-En la sesión 4 de marzo cada pareja debe decidir cómo se van a organizar para escribir el texto, quién de los dos va a escribir el texto o si van a proponer una escritura colaborativa, o si van a reeditar un texto existente para el ejercicio. 
+Los textos deben tener entre 1000 y 1200 palabras y mínimo una imagen. En la sesión 4 de marzo cada pareja debe decidir **cómo se van a organizar para escribir el texto**, quién de los dos va a escribir el texto o si van a proponer una escritura colaborativa, o si van a reeditar un texto existente para el ejercicio.  Los textos deben escribirse en Markdown
 
-Los textos deben escribirse sobre esta plantilla de Markdown
+Para la sesión del 11 de marzo todos los textos deben estar listos para revisión. En dicha sesión trabajaremos en GitBook.
 
 1. Definición de roles
 2. Revisores y correctores de estilo 
