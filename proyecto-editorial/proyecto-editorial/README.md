@@ -19,7 +19,7 @@ El proyecto propuesto es un libro editado. Este consiste en una colección de ar
 El libro tendrá un total de 10 ensayos. 
 {% endhint %}
 
-Los textos deben tener entre 1000 y 1200 palabras y mínimo una imagen. En la sesión **4 de marzo** cada pareja debe decidir **cómo se van a organizar para escribir el texto**, quién de los dos va a escribir el texto o si van a proponer una escritura colaborativa, o si van a reeditar un texto existente para el ejercicio.  Los textos deben escribirse en Markdown
+Los textos deben tener entre 1000 y 1200 palabras, mínimo una imagen y tres hipervínculos. En la sesión **4 de marzo** cada pareja debe decidir **cómo se van a organizar para escribir el texto**, quién de los dos va a escribir el texto o si van a proponer una escritura colaborativa, o si van a reeditar un texto existente para el ejercicio.  Los textos deben escribirse en Markdown
 
 Para la sesión del **11 de marzo** todos los textos deben estar listos para revisión. En dicha sesión trabajaremos en GitBook.
 

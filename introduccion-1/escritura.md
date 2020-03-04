@@ -9,5 +9,4 @@
 * Organización modular de los materiales \(assets\)
 * Dinámicas colaborativas de escritura: Revisión abierta,  Escritura en vivo y participación en tiempo real.
 * Uso de metadatos para describir contenidos 
-* Edición crítica digital 
 

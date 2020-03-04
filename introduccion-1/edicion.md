@@ -9,4 +9,5 @@
 * Seguimiento de historial de cambios \( github, sistema de gestión de versiones\)
 * Base de datos como posible forma de organización de materiales para asistir en procesos de edición
 * Uso de herramientas de análisis de textos para descubrir patrones en los textos de una publicación.
+* Edición crítica digital 
 
