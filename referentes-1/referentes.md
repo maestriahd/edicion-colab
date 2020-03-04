@@ -1,7 +1,7 @@
 ---
 description: >-
   Cada pareja analizará un referente de publicación digital. En el análisis
-  deben tener en cuenta el formatos y estrat de publicación digital propone el
+  deben tener en cuenta el formatos y estrate de publicación digital propone el
   proyecto, la experiencia de lectura que ofrece y
 ---
 
