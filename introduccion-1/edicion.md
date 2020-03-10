@@ -11,5 +11,7 @@
 * **Análisis computacional**. Uso de herramientas de análisis de textos para descubrir patrones en los textos de una publicación.
 * **Edición crítica digital.** En humanidades, representación crítica de documentos históricos
 
+kjsnfeksjnf
+
 
 
